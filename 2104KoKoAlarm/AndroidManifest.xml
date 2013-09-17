@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="kr.hs.emirim.dngus242.kokoalarm"
     android:installLocation="auto"
-    android:versionCode="20130904"
-    android:versionName="20130904" >
+    android:versionCode="20130917"
+    android:versionName="20130917" >
 
     <uses-sdk
         android:minSdkVersion="11"
