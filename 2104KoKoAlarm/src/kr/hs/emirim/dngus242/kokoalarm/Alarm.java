@@ -1,8 +1,8 @@
 package kr.hs.emirim.dngus242.kokoalarm;
 
-import android.content.Context;
-
 import com.orm.SugarRecord;
+
+import android.content.Context;
 
 public class Alarm extends SugarRecord<Alarm>{
 	private int hour;
